@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dharmik 
-- 👀 I’m interested in Machine Learning, Problem solving,
-- I make full stack websites and I like to automate tasks
+- 👀 I’m interested in Machine Learning, Problem solving, I make full stack websites and I like to automate tasks
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me text me on Twitter @dhrmknows
